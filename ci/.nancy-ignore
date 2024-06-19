@@ -1,1 +1,3 @@
 sonatype-2021-0853 # Unable to upgrade github.com/jackc/pgproto3@v1.1.0 due to upstream libraries depending on it.
+
+CVE-2024-27304 # no upgrade path as yet
