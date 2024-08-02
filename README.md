@@ -1,3 +1,5 @@
+⚠️ This repository will be archived in August 2024 as it is no longer in development. ⚠️
+
 dp-areas-api
 ================
 Digital Publishing areas API used to navigate profiles for different geographical areas across the UK
